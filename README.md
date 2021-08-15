@@ -1,6 +1,17 @@
 # E-commerce Back End Assignment
 
 # Description: 
+Using the following back end frameworks, the user is now able to create, read, update, and delete all catergories, products, and tags in their E-commerce store:
+- MYSQL2
+- Sequelize
+- Express.js
+- Tested on Insomnia
+
+
+# User Story:
+- AS A manager at an internet retail company
+- I WANT a back end for my e-commerce website that uses the latest technologies
+- SO THAT my company can compete with other e-commerce companies
 
 
 # Usage:
