@@ -28,9 +28,6 @@ Using the following back end frameworks, the user is now able to create, read, u
 
 # Video - CRUD testing in Insomnia:
 
-<video controls width="250">
+Link: https://kapwi.ng/c/qD82tFEM
 
-<source src="assets\E-Commerce Back End.webm"
-type="video/webm">
 
-</video>
